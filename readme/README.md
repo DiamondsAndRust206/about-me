@@ -5,9 +5,9 @@
 
 ## Technologies used
 
-*HTML
-*CSS
-*VS Code
+* HTML
+* CSS
+* VS Code
 
 ## Description
 
@@ -19,7 +19,7 @@ _No setup or installation required. Any basic browser like Chrome,Firefox, or Mi
 
 ## Know Bugs
 
-*_No know bugs._
+* _No know bugs._
 
 ## License
 

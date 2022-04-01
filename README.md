@@ -15,7 +15,10 @@ _This is a simple webpage were I talk little bit about who I am, my interests, h
 
 ## Setup/Installation Requirements
 
-_No setup or installation required. Any basic browser like Chrome,Firefox, or Microsoft Edge will work. Many other browsers will work as well._
+* At https://github.com/DiamondsAndRust206/about-me copy the repository URL named "about-me". You can do this by clicking the green Code button and copy the URL from there.
+* In a shell program, clone the copied repository to your desktop (git clone URL).
+* Open the newly cloned directory named "about-me".
+* From this directory, open index.html
 
 ## Know Bugs
 

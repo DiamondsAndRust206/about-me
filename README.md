@@ -3,6 +3,8 @@
 #### By Timothy Ryan Gibson
 #### _A simple webpage to get to know me and the projects I have done._
 
+_Link to [about-me](https://diamondsandrust206.github.io/about-me/)_
+
 ## Technologies used
 
 * HTML

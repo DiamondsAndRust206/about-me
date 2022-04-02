@@ -2,16 +2,15 @@ h1 {
   text-align: center;
   font-size: 40px;
   font-family:Georgia, 'Times New Roman', Times, serif;
+  color:rgb(0, 0, 170);
 }
 
 h2 {
   text-decoration: underline;
   text-align: center;
   font-style: italic;
-}
-
-body {
-  background-color:burlywood;
+  font-size: 35px;
+  color:rgb(88, 137, 228);
 }
 
 span {
@@ -26,6 +25,8 @@ span {
   box-sizing: border-box;
   text-align: left;
   margin-right: 100px;;
+  color:crimson;
+  font-size: large;
 }
 
 .eastandwest {
@@ -50,6 +51,8 @@ span {
   margin: 12px;
   padding: 4px;
   box-sizing: border-box;
+  color: crimson;
+  font-size: large;
 }
 
 .p2 img {
@@ -60,9 +63,24 @@ span {
   border-radius: 50px;;
 }
 
+.p3 {
+  color: crimson;
+  font-size: large;
+}
+
 span {
   font-style: italic;
   font-weight: bolder;
 }
 
-
+body {
+  background: 
+    radial-gradient(black 3px, transparent 4px),
+    radial-gradient(black 3px, transparent 4px),
+    linear-gradient(#fff 4px, transparent 0),
+    linear-gradient(45deg, transparent 74px, transparent 75px, #a4a4a4 75px, #a4a4a4 76px, transparent 77px, transparent 109px),
+    linear-gradient(-45deg, transparent 75px, transparent 76px, #a4a4a4 76px, #a4a4a4 77px, transparent 78px, transparent 109px),
+  #fff;
+  background-size: 109px 109px, 109px 109px,100% 6px, 109px 109px, 109px 109px;
+  background-position: 54px 55px, 0px 0px, 0px 0px, 0px 0px, 0px 0px;
+}
